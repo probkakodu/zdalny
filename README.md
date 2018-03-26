@@ -1,1 +1,3 @@
 # zdalny
+
+poprawka 1
